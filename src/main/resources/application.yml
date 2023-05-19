@@ -1,0 +1,26 @@
+person:
+  username: xiaochen
+  boss: true
+  birth: 2000/11/12
+  age: 19
+  interests:
+    - 篮球
+    - 乒乓球
+    - 跑步
+  animal: [狗, 熊猫]
+  score:
+    English: 80
+    Math: 90
+  salarys:
+    - 34934
+    - 35935
+  pet:
+    name: 小狗
+    weight: 93.22
+  allPets:
+    sick:
+      - {name: 熊大, weight: 90.22}
+      - {name: 熊二, weight: 100.22}
+    health:
+      - { name: 光头强, weight: 92.22 }
+      - { name: 肥波, weight: 110.22 }
